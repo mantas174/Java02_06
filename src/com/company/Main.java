@@ -18,7 +18,7 @@ public class Main {
         System.out.print("Iveskite savo ugi: ");
         ugis = in.nextFloat();
 
-        System.out.print("KMI: " + mase / (ugis * ugis));
+        System.out.print("KMI: " + mase / (ugis * ugis)) ;
 
     }
 }
